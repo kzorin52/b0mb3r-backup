@@ -9,11 +9,9 @@
 3. Клонируйте репозиторий при помощи git и перейдите в папку:
     ```bash
     git clone https://github.com/kzorin52/b0mb3r-backup.git
-    ```
-    Распакуйте.
-    ```bash
     cd b0mb3r-backup
     ```
+    Распакуйте.
 4. Установите все необходимые библиотеки и запустите скрипт:
     ```bash
     pip install -r requirements.txt
